@@ -1,1 +1,2 @@
-This is common
+This is common.
+Edited by B2.
